@@ -1,0 +1,19 @@
+{
+  "name": "chrome-extension-darkmodetoggle",
+  "version": "1.0.0",
+  "description": "谷歌浏览器插件-快捷切换暗黑模式",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-chrome-manifest": "^0.0.13",
+    "gulp-watch": "^5.0.1",
+    "web-ext": "^8.1.0"
+  }
+}
